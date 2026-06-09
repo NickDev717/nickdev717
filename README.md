@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## **Github Stats**
+<a href="https://github.com/nickdev717/GitBadgeStats"><img align="center" src="https://git-badge-stats.vercel.app/api?username=nickdev717&theme=github_dark" /></a>
 <!--
 **NickDev717/nickdev717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
