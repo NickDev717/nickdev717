@@ -2,12 +2,17 @@
 <p align="left">
   <table>
     <tr>
-      <td>
+      <td valign="middle">
         <img src="https://github.com/NickDev717/NickDev717/blob/main/logo.png" width="120" style="filter: drop-shadow(0 0 15px #a855f7) drop-shadow(0 0 30px #06b6d4);" />
       </td>
-      <td>
-        <h1 style="font-size: 55px; color: #ffffff; margin: 0;">NickDev</h1>
-        <p style="font-size: 22px; color: #a855f7; margin: 5px 0 0 0;">Developer | Creator | Innovator</p>
+      <td valign="middle">
+        <h1 style="font-size: 67px; color: #ffffff; margin: 0;">NickDev</h1>
+        <p style="font-size: 40px; color: #a855f7; margin: 5px 0 15px 0;">Developer | Creator | Innovator</p>
+        <p style="font-size: 20px; color: #ffffff; margin: 0;">
+          ‍💻 Desenvolvedor apaixonado por tecnologia e inovação.<br>
+          🎨 UI/UX • Full Stack • Cloud • DevOps<br>
+          🔥 Sempre aprendendo algo novo
+        </p>
       </td>
     </tr>
   </table>
@@ -19,18 +24,6 @@
   <img src="https://img.shields.io/badge/Status-Online-00ffff?style=for-the-badge&logo=statuspage&logoColor=black" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-a855f7?style=for-the-badge&logo=handshake&logoColor=white" />
 </p>
-
----
-
-## ⚡ Sobre Mim
-
-<p align="center">
-  ‍💻 Desenvolvedor apaixonado por tecnologia e inovação.<br>
-  🎨 UI/UX • Full Stack • Cloud • DevOps<br>
-  🔥 Sempre aprendendo algo novo
-</p>
-
----
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -47,13 +40,18 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/nickdev717/GitBadgeStats"><img align="center" src="https://git-badge-stats.vercel.app/api?username=nickdev717&theme=github_dark" /></a>
-</p>
-
-<p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickDev717&theme=dark&background=0d0221&ring=a855f7&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=a855f7" />
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/nickdev717/GitBadgeStats">
+        <img align="center" src="https://git-badge-stats.vercel.app/api?username=nickdev717&theme=github_dark" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickDev717&theme=dark&background=0d0221&ring=a855f7&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=a855f7" />
+    </td>
+  </tr>
+</table>
 
 ---
 
