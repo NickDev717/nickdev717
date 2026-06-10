@@ -1,16 +1,21 @@
-<!-- Banner com gradiente neon -->
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:1a0533,100:0a1628&height=200&section=header&text=NickDev717&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20|%20Creator%20|%20Innovator&descAlignY=55&descSize=20" />
+<!-- Banner com logo + nome alinhados -->
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/NickDev717/NickDev717/blob/main/logo.png" width="120" style="filter: drop-shadow(0 0 15px #a855f7) drop-shadow(0 0 30px #06b6d4);" />
+      </td>
+      <td>
+        <h1 style="font-size: 48px; color: #ffffff; margin: 0;">NickDev</h1>
+        <p style="font-size: 18px; color: #a855f7; margin: 5px 0 0 0;">Developer | Creator | Innovator</p>
+      </td>
+    </tr>
+  </table>
 </p>
 
-<!-- Logo centralizado com efeito glow -->
-<p align="left">
-  <img src="https://github.com/NickDev717/NickDev717/blob/main/logo.png" width="180" style="filter: drop-shadow(0 0 20px #a855f7) drop-shadow(0 0 40px #06b6d4);" />
-</p>
-
-<!-- Badges com cores do logo -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Developer-🚀-purple?style=for-the-badge&logo=github&logoColor=white" />
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer--purple?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Online-00ffff?style=for-the-badge&logo=statuspage&logoColor=black" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-a855f7?style=for-the-badge&logo=handshake&logoColor=white" />
 </p>
@@ -18,18 +23,18 @@
 ---
 
 ## ⚡ Sobre Mim
-═══════════════════════════════════════════════════════════╗
-║👨‍💻 Desenvolvedor apaixonado por tecnologia e inovação.    ║
-║                                                          ║
-║🎨 UI/UX • Full Stack • Cloud • DevOps                    ║
-║🔥 Sempre aprendendo algo novo                            ║
-╚══════════════════════════════════════════════════════════╝
+
+<p align="center">
+  ‍💻 Desenvolvedor apaixonado por tecnologia e inovação.<br>
+  🎨 UI/UX • Full Stack • Cloud • DevOps<br>
+  🔥 Sempre aprendendo algo novo
+</p>
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -41,22 +46,32 @@
 ---
 
 ## 📊 GitHub Stats
-<a href="https://github.com/nickdev717/GitBadgeStats"><img align="center" src="https://git-badge-stats.vercel.app/api?username=nickdev717&theme=github_dark" /></a>
+
+<p align="center">
+  <a href="https://github.com/nickdev717/GitBadgeStats"><img align="center" src="https://git-badge-stats.vercel.app/api?username=nickdev717&theme=github_dark" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickDev717&theme=dark&background=0d0221&ring=a855f7&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=a855f7" />
+</p>
 
 ---
 
-##  O que estou fazendo agora
+## 🎯 O que estou fazendo agora
 
-|  Foco | 📚 Aprendendo |  Colaborando |
+| 🎯 Foco | 📚 Aprendendo | 🤝 Colaborando |
 |---------|---------------|----------------|
 | Projetos Full Stack | IA & Machine Learning | Open Source |
 
 ---
 
-##  Contato
+## 📬 Contato
 
-<p align="left">
-  <a href="https://linkedin.com/in/nickdev717">
+<p align="center">
+  <a href="https://nickdev717.github.io/Defaull7-Tech-Projetos/">
+    <img src="https://img.shields.io/badge/Meu Site-a855f7?style=for-the-badge&logo=site&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nickolas-oliveira-bonavita-magalh%C3%A3es-092a06189/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:defaull7contato@gmail.com">
@@ -66,10 +81,8 @@
 
 ---
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:1a0533,100:0a1628&height=80&section=footer&text=⚡%20Powered%20by%20NickDev717%20⚡&fontSize=20&fontColor=a855f7&animation=fadeIn" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:1a0533,100:0a1628&height=60&section=footer&text=⚡%20Powered%20by%20NickDev717%20&fontSize=18&fontColor=a855f7&animation=fadeIn" />
 </p>
-## **Github Stats**
-
 <!--
 **NickDev717/nickdev717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
