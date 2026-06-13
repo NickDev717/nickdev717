@@ -3,7 +3,7 @@
   <table>
     <tr>
       <td valign="middle">
-        <img src="https://github.com/NickDev717/NickDev717/blob/main/logo.png" width="120" style="filter: drop-shadow(0 0 15px #a855f7) drop-shadow(0 0 30px #06b6d4);" />
+        <img src="https://github.com/NickDev717/NickDev717/blob/main/logo.png" width="180" style="filter: drop-shadow(0 0 15px #a855f7) drop-shadow(0 0 30px #06b6d4);" />
       </td>
       <td valign="middle">
         <h1 style="font-size: 67px; color: #ffffff; margin: 0;">NickDev</h1>
