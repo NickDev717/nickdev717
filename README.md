@@ -10,7 +10,7 @@
         <p style="font-size: 40px; color: #a855f7; margin: 5px 0 15px 0;">Developer | Creator | Innovator</p>
         <p style="font-size: 20px; color: #ffffff; margin: 0;">
           ‍💻 Desenvolvedor apaixonado por tecnologia e inovação.<br>
-          🎨 • Full Stack • Cloud • DevOps • IoT • IT Governance •<br>
+          🎨 • BackEnd • Cloud • DevOps • IoT • IT Governance •<br>
           🔥 Sempre aprendendo algo novo
         </p>
       </td>
